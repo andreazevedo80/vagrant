@@ -1,2 +1,2 @@
 # vagrant
-Repositório para projetos HTML dos cursos realizados. Ordenado pelas Instituições de ensino
+Repositório para projetos vagrant dos cursos realizados. Ordenado pelas Instituições de ensino.
