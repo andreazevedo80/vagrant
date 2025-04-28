@@ -1,0 +1,21 @@
+# Ignorar pastas .vagrant
+vagrant-zabbix/.vagrant/
+vagrant-k3s_jenkins_nexus_sonar/.vagrant/
+# Ignorar pasta .vs
+vagrant-zabbix/.vs/
+vagrant-k3s_jenkins_nexus_sonar/.vs/
+
+# Ignorar arquivo .env
+vagrant-zabbix/.env
+vagrant-k3s_jenkins_nexus_sonar/.env
+
+# Ignorar arquivos (Boas Práticas)
+GLPI.txt
+*.log
+*.env
+.DS_Store
+*.swp
+.idea/
+.vscode/
+node_modules/
+.vs
